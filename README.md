@@ -32,19 +32,7 @@ This project showcases a conversational agent workflow designed to streamline th
 
 - **Deployment Options:** The system can be deployed locally or on cloud platforms, offering scalability and accessibility to developers and teams involved in software development projects.
 
-**Contributing:**
 
-Contributions to the project are welcome, including enhancements to existing features, addition of new agent functionalities, bug fixes, and documentation improvements. Contributors are encouraged to follow the project's guidelines and contribute to the ongoing development efforts.
-
-**Credits:**
-
-- Langchain Framework: [python.langchain.com](https://python.langchain.com/)
-- OpenAI: [openai.com](https://openai.com/)
-- Beautiful Soup: [www.crummy.com/software/BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)
-
-**License:**
-
-This project is licensed under the [MIT License](LICENSE), allowing for free use, modification, and distribution. See the LICENSE file for more details.
 
 **Acknowledgments:**
 
